@@ -14,6 +14,9 @@ Week 1:
 DONE
 - Created GitHub repo and a local clone
 - Folder structure set up
+
+
+
 PENDING
 - Starting MATLAB + OpenDSS setup
 - List of hardware (ESP32 included)
